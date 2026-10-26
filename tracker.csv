@@ -1,1 +1,100 @@
 id,tier,company,role,req_id,url,source,verify_status,posted_date,pay_listed,resume_file,status,blocked_reason,submitted_at,confirmation,follow_up_date,notes
+1,1,The Hartford,"Associate General Adjuster, Texas (remote)",3203,https://www.jointhehartford.com/job/3203/personal-insurance-associate-general-adjuster-general-adjuster-texas-region-claim-us-tx-remote,doc1,UNVERIFIED,open Oct 26 per doc1,"$85,200-$127,800/yr",,PENDING,,,,,Degree OR equivalent experience; Xactimate. Resume: Hartford (W08).
+2,1,Mercury Insurance,"Property Claims Specialist Field II, CAT Spikes, Fort Worth",2026-6568,https://careers-mercuryinsurance.icims.com/jobs/6568/property-claims-specialist-field-ii---cat-spikes-team/job,doc1,UNVERIFIED,open Oct 26 per doc1,"$69,845-$129,284/yr + 10% CAT",,PENDING,,,,,FLAG: travel up to 50%. Degree and 3-5 yrs preferred only.
+3,1,Allstate,Travel Property Adjuster (Central/Mountain),22952248,https://www.allstate.jobs/job/22952248,doc1,N/A,open Oct 26 per doc1,"$68,000-$117,700/yr",,BLOCKED,"Up to 90% travel (G5 travel rule, same as We Inspect)",,,,Your call: unblock if you will accept 90% travel.
+4,1,National General (Allstate),CAT Field Property Adjuster,23928873,https://www.allstate.jobs/job/23928873,doc1,UNVERIFIED,Oct 21 (Insurance Journal copy),"$65,600-$120,000/yr",,PENDING,,,,,"FLAG: ~30-day deployments; FAA Part 107 within 60 days, company supported. Employer page did not load for doc1 author either."
+5,1,National General (Allstate),Desk Property Adjuster (remote),23772897,https://www.allstate.jobs/job/23772897,doc1,UNVERIFIED,open Oct 26 per doc1,"$53,500-$104,100/yr",,PENDING,,,,,The Muse copy says expired; employer page wins. Recheck.
+6,1,Allstate,"Catastrophe Field Property Adjuster, DFW area",21879450,https://allstate.jobs/job/21879450,doc1,UNVERIFIED,open Oct 26 per doc1,"$50,700-$89,062.50/yr",,PENDING,,,,,Local DFW base. Resume: Allstate Field Adjuster.
+7,1,Liberty Mutual,"Field Property Claims Adjuster, Fort Worth (76109)",65374,https://careers-libertymutual.icims.com/jobs/65374/field-property-claims-adjuster/job,doc1,UNVERIFIED,date not shown,not posted,,PENDING,,,,,FLAG: must live in or near 76109; Prosper may be out of range. Ask recruiter.
+8,1,Honeycomb Insurance,Property Claims Adjuster (remote),4740482005,https://job-boards.greenhouse.io/honeycombinsurance/jobs/4740482005,doc1,UNVERIFIED,Oct 5,"$80,000-$105,000 + 5% bonus",,PENDING,,,,,FLAG: listed Midwest-Remote; confirm TX eligible. doc1 best fit.
+9,1,Allstate,"Homeowner Liability Adjuster, Consultant II (remote)",R32971,https://allstate.wd5.myworkdayjobs.com/allstate_careers?q=R32971,doc1,UNVERIFIED,Aug 5 (STALE >30d),"$77,500-$105,800/yr",,PENDING,,,,,"Liability side, not first-party property."
+10,1,Allstate,"Property Adjuster, Field Estimating, Dallas East Metro",R36267-1,https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/TX--Dallas/Property-Adjuster---Field-Estimating---Dallas--East-Metro---TX_R36267-1,doc1,UNVERIFIED,Oct 23,"$60,000-$98,450/yr",,PENDING,,,,,doc1 conflict: an older Allstate Field Estimating DFW link was 'no longer available'. Recheck this req.
+11,1,American Family,"Property Field Claims Adjuster, Dallas",R39158,https://careers.amfam.com/jobs/r39158/property-field-claims-adjuster-dallas-tx/,doc1,UNVERIFIED,undated,"$57,000-$94,000/yr",,PENDING,,,,,Must live in Dallas metro. No degree listed.
+12,1,USAA,"Senior Auto Appraiser, Field, Grapevine",R0120823,https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Dallas-Metro-TX-Home/Senior-Auto-Appraiser---Field-for-Grapevine--TX_R0120823,doc1,UNVERIFIED,Sep 24 (STALE >30d),"$67,500-$121,500/yr",,AWAITING_ME,,,,,Needs 2 yrs auto appraising. Depends on Phase 0 answer (c) PILOT estimates.
+13,1,Allstate,"CAT Field Auto Adjuster (remote, travel)",R36279,https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Catastrophe-Field-Auto-Adjuster_R36279,doc1,UNVERIFIED,Oct 20,"$56,000-$104,000/yr",,AWAITING_ME,,,,,Auto work + extra exam + CAT travel. Depends on answer (c).
+14,1,Sedgwick,Construction Defect Adjuster (remote TX),R78572,https://sedgwick.wd1.myworkdayjobs.com/en-US/Sedgwick?q=R78572,doc1,N/A,Sep 28,"$88,000-$120,000/yr",,BLOCKED,5 yrs commercial liability claims REQUIRED,,,,
+15,1,Sedgwick,Contents Adjuster (remote TX),R77098,https://sedgwick.wd1.myworkdayjobs.com/en-US/Sedgwick/job/Telecommuter-TX/Contents-Adjuster_R77098,doc1,UNVERIFIED,Sep 10 (STALE >30d),"$55,000-$65,000/yr",,PENDING,,,,,"Low end under $62,400 floor."
+16,1,TemPositions,Remote CAT Desk Adjuster (temp),,https://www.tempositions.com/job/remote-desk-adjuster-cat-support/,doc1,UNVERIFIED,undated,$24/hr,,PENDING,,,,,CAT-only filler work. Requires TX All-Lines.
+17,1,Sedgwick,TX desk roles,"R75052, R75065",,doc1,N/A,,,,BLOCKED,Part-time; AIC designation required,,,,
+18,1,Sedgwick,Desk role,R69993,,prompt+doc1,N/A,,,,BLOCKED,AIC required at hire,,,,
+19,1,USAA,Campus claims roles,"R0117703, R0120723",,prompt,N/A,,,,BLOCKED,"On campus, not remote; outside DFW commute",,,,
+20,1,Travelers,Claims role (Houston hub),R-53157,,prompt,N/A,,,,BLOCKED,"Houston hub, relocation",,,,
+21,1,Eberl Claims,Independent adjuster roster,,https://jobs.eberls.com,doc1,UNVERIFIED,page updated Oct 22,per assignment,,PENDING,,,,,Roster. Resume: 1099 Roster (ROSTER-1099).
+22,1,Crawford & Company,CAT adjuster roster,1306,https://fa-esau-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/crawco-jobs/job/1306?keyword=1306&mode=location,doc1,UNVERIFIED,Apply Now live Oct 26,per assignment,,PENDING,,,,,Oracle Cloud ATS domain; confirm it is linked from crawco.com/cat/careers.
+23,1,Alacrity Solutions,Adjuster roster,,https://www.alacritysolutions.com/adjuster-careers,doc1,UNVERIFIED,,per assignment,,PENDING,,,,,
+24,1,Pilot Catastrophe,Adjuster roster,,https://www.pilotcat.com/careers,doc1,UNVERIFIED,,per assignment,,PENDING,,,,,doc1 also says email PILOT asking for more volume (G7 draft).
+25,1,Renfroe,Adjuster roster,,https://earenfroe.com/careers,doc1,UNVERIFIED,,per assignment,,PENDING,,,,,doc1: reactivation email (G7 draft).
+26,1,Sedgwick,General adjuster roster / careers,,https://jobs.sedgwick.com,doc1,UNVERIFIED,,,,PENDING,,,,,
+27,1,CatAdjuster.org,Adjuster profile,,https://www.catadjuster.org/Channels/Careers2.aspx,doc1,UNVERIFIED,,,,PENDING,,,,,"Profile, not an application."
+28,1,Jacobson Group,Temporary claims staffing,,https://jacobsononline.com/insurance-temporary-staffing/,doc1,UNVERIFIED,,,,PENDING,,,,,
+29,1,WAHVE,Claims staffing,,,prompt,UNVERIFIED,,,,PENDING,,,,,No link in docs; find employer page.
+30,1,QA Claims,Reactivation email,,,doc1,UNVERIFIED,,,,PENDING,,,,,Email only (G7 draft).
+31,1,Miller Claims,Reactivation email,,,doc1,UNVERIFIED,,,,PENDING,,,,,Email only (G7 draft).
+32,1,USAA / Travelers / Lemonade / Deskimate / Nearmap,Remote desk claims (prompt list),,,prompt,UNVERIFIED,,,,PENDING,,,,,Named in prompt from original doc1; no links provided. Need doc1.
+33,1,Assurant,Field Adjuster,,,doc1,N/A,deadline Oct 24,,,DEAD,,,,,Deadline passed. Try Apply once per doc1.
+34,1,Sparks Group,Desk Adjuster,,,doc1,N/A,,,,DEAD,,,,,Expired.
+35,1,TechServ,"Storm Damage Assessor, Texas",,,doc1,N/A,,,,DEAD,,,,,Closed.
+36,1,Allstate,"Field Estimating, DFW (old link)",,,doc1,N/A,,,,DEAD,,,,,No longer available.
+37,1,FEMA,Insurance Examiner (USAJOBS),,,doc1,N/A,closed 2023,,,DEAD,,,,,Set USAJOBS alert instead.
+38,1,AC Disaster Consulting,Storm Damage Assessor,,https://apply.workable.com/acdisaster/,doc1,UNVERIFIED,,,,PENDING,,,,,Unconfirmed; page did not load for doc1.
+39,1,CENCO Claims,"Claims role, Allen",,,doc1,N/A,30+ days,$75-90K claimed,,BLOCKED,No employer website found; CareerBuilder only (legitimacy),,,,
+40,1,Partner Field Assessor (talents.vaia),Field Assessor,,,doc1,N/A,,,,BLOCKED,"New Jersey, not Texas",,,,
+41,1,Scope Genius / Sedgwick Farmers Branch / Compass Adjusting,Claims roles,,,doc1,UNVERIFIED,,,,PENDING,,,,,Indeed only; find employer pages.
+42,1,Alexander & Schmidt,Loss Control,,,doc1,N/A,,,,BLOCKED,3-5 yrs commercial loss control required,,,,
+43,1,State Farm,Property Field Inspection,,,doc1,N/A,,,,BLOCKED,"Open only in AL, WA, NV, TN, IA",,,,
+44,2,Davies Risk Services,Independent Insurance Loss Control Inspector,,https://daviesriskservices.applytojob.com/apply/QgYSlJocln/Independent-Insurance-Loss-Control-Inspector,doc1,UNVERIFIED,updated Oct 24,per survey,,PENDING,,,,,DFW coverage not confirmed.
+45,2,Safeguard Properties,Inspection vendor,,https://recruit.safeguardproperties.com/?sg,doc1,UNVERIFIED,page updated Oct 9,"per order, weekly",,PENDING,,,,,G4: proof of insurance upload.
+46,2,Inspectify,Surveyor track (no license),,https://app.inspectify.com/onboarding/surveyor/new,doc1,UNVERIFIED,,not published,,PENDING,,,,,Needs liability insurance policy.
+47,2,Inspectify,Inspector track,,,prompt,N/A,,,,BLOCKED,TREC license required,,,,
+48,2,Field Nation,Field tech marketplace,,https://fieldnation.com/technician-signup,doc1,UNVERIFIED,Oct 20,per work order,,PENDING,,,,,
+49,2,Hancock Claims Consultants,Ladder assist / roof inspector (1099),,https://hancockclaimsconsultantstechnicians.applytojob.com/apply,doc1,UNVERIFIED,undated,not stated,,PENDING,,,,,"Ladder, insurance certificate (G4), background check."
+50,2,Osmose (via EnergyHire),Utility Pole Inspection Foreman,,https://app.energyhire.com/job-board/utility-pole-inspection-foreman-tx-texas-tx-961e8442-8fa3-4ffc-95a5-30f1b0147ace,doc1,N/A,,$26-$32/hr + $25/day,,BLOCKED,Up to 80% travel; job-board only,,,,
+51,2,H&S Loss Control (via WayUp),Commercial loss control (1099),,https://www.wayup.com/i-j-H-S-Loss-Control-Inspections-175017494353618/,doc1,UNVERIFIED,,$60-$75 per case,,PENDING,,,,,Job board only; find employer page before applying.
+52,2,Land Gorilla,Construction draw inspector network,,https://system.landgorilla.com/inspector-application-step1.html,doc1,UNVERIFIED,actively recruiting,per inspection,,PENDING,,,,,Apply as Q3 Global Consulting (business entity).
+53,2,Built Technologies,Inspection services network,,https://getbuilt.com/inspection-services-network,doc1,UNVERIFIED,actively recruiting,per inspection,,PENDING,,,,,
+54,2,GIS Field Services,"Mortgage Occupancy Field Inspector, TX-Dallas",TX-Dallas 925,https://gis.applicantstack.com/x/detail/a2w7lo7es9fa,doc2 + search,UNVERIFIED,"campaign start per doc2 Aug 31, 2026 (search shows 09/04/2025)","weekly, per order",,PENDING,,,,,Also general application: https://gis.applicantstack.com/x/detail/a2w7lo7j4ogo. Background check.
+55,2,Pogue Construction,"QC Inspector, McKinney",,,doc2,UNVERIFIED,,,,PENDING,,,,,Search did not find the req. Candidate: paylocity 4381148 'Construction QC Inspector' (employer unconfirmed). Check pogue careers page.
+56,2,TWM Water Restoration,Restoration Technician / Project roles,,,doc2,UNVERIFIED,,,,PENDING,,,,,Careers page not found by search; G5 check IICRC requirement.
+57,2,Tolunay-Wong Engineers,"CMT Technician, Fort Worth",,,doc2,UNVERIFIED,,$18-$26/hr (Houston posting),,PENDING,,,,,"Search found TX City/Houston/Cedar Creek reqs, not Fort Worth. Below pay floor."
+58,2,Building & Earth Sciences,"CMT Technician I, Dallas",,,doc2,N/A,Oct 1,,,BLOCKED,ACI Concrete Field Testing Technician cert + radiation safety REQUIRED,,,,
+59,2,Terracon,"Construction Materials / Laboratory Technician I, Dallas","2162, 2184",https://careers.terracon.com/job/dallas/laboratory-technician-i/37184/97833582960,doc2 + search,UNVERIFIED,,not shown,,PENDING,,,,,Search found Lab Tech I Dallas (HS + 6 months exp). Confirm the CMT I req.
+60,2,Terracon,"Registered Roof Observer, Austin",,https://careers.terracon.com/job/austin/registered-roof-observer/37184/100173807664,doc1,N/A,,not shown,,BLOCKED,Austin (outside DFW); RRO cert listed as requirement,,,,
+61,2,Mooring USA,"Field Safety Technician, Fort Worth",3527872,https://mooring-usa.careerplug.com/jobs/3527872,doc2 + search,UNVERIFIED,,,,PENDING,,,,,"Also Grand Prairie copies 2839435, 2932468. Verify OSHA requirement. Email careers@mooringusa.com (G7)."
+62,2,Beyond Engineering & Testing,Construction inspection / materials testing,,,doc2,UNVERIFIED,,,,PENDING,,,,,Email application jobs@beyondet.com (G7 draft).
+63,2,Tetra Tech,"Cost Estimator, disaster recovery cadre",56385,https://tetratech.referrals.selectminds.com/jobs/cost-estimator-56385,doc1,UNVERIFIED,Aug 27 (STALE),on-call,,PENDING,,,,,Xactimate preferred; deployment travel likely; flag.
+64,2,SAFEbuilt / Terracon asbestos / Insituform / United Coop / Crawford reviewer / Solid Restoration / Aoka,Various,,,doc1,N/A,,,,BLOCKED,"Hard requirements not held (certs, degree, specialty, ICC)",,,,
+65,2,Trinity,Field inspection,,,doc1,N/A,,,,BLOCKED,Accepted license list excludes adjuster licenses,,,,
+66,2,"SWPPP boards; FAR, Arch Aerial, QuickCheck, Renova, Next Level, Allcat",Inspector listings,,,doc1,N/A,,,,BLOCKED,Board-only; no employer posting to apply on,,,,
+67,2,We Inspect,Inspector,,,prompt,N/A,,,,BLOCKED,90% travel,,,,
+68,2,ServiceLink / Associated Services Inspections / Metro Code / Verisk Field Rep / Seek Now,Field inspector networks (prompt list),,,prompt,UNVERIFIED,,,,PENDING,,,,,Named in prompt from original doc1; no links. Need doc1.
+69,3,Merit Restorations,"Business Development Rep, Dallas",66FA31D3A0,https://apply.workable.com/meritrestorations/jobs/view/66FA31D3A0,doc1,UNVERIFIED,Jun 23 (STALE),"$60,000-$110,000 + commission",,PENDING,,,,,Strong fit per doc1.
+70,3,Restoration 1,"Business Development Manager, N. Fort Worth",2404367,https://restoration-1-careers.careerplug.com/jobs/2404367,doc1,UNVERIFIED,"undated, 'Future Opening'","$55,000-$100,000 + commission",,PENDING,,,,,Future opening; may not be live.
+71,3,Snapsheet,"Account Executive, claims software (remote)",PPjfuVVmEQ,https://snapsheet.theresumator.com/apply/PPjfuVVmEQ/Account-Executive,doc1,UNVERIFIED,,"$100,000-$120,000 + bonus",,PENDING,,,,,FLAG: wants 5 yrs sales; check if required.
+72,3,Kin Insurance,Insurance Sales Rep (remote),c69da363,https://jobs.ashbyhq.com/kin/c69da363-3822-4891-8036-9a3bf5f34f64,doc1,N/A,Sep 22,"$65,000-$100,000",,BLOCKED,P&C agent license required,,,,
+73,3,State Farm,"Agency role, Little Elm",,,prompt,N/A,,,,BLOCKED,P&C agent license required,,,,
+74,3,TQL,"Freight Sales Rep, Fort Worth",5319,https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/United-States-Sales-Representative-Entry-Level/5319,doc1,UNVERIFIED,,"$40,000-$50,000 + commission",,PENDING,,,,,Under pay floor.
+75,3,RAFTRx,"Outside Sales, Roofing (DFW)",3948139,https://recruiting.paylocity.com/Recruiting/Jobs/Details/3948139,doc1,UNVERIFIED,,commission only,,PENDING,,,,,Income risk.
+76,3,General Motors,"Manufacturing Group Leader, Arlington",JR-202612621,https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Arlington-Texas-United-States-of-America/Manufacturing-Group-Leader---Production---Arlington_JR-202612621,doc1,UNVERIFIED,Oct 8,not listed,,PENDING,,,,,HS diploma only. Direct match to GM quality background.
+77,3,Kodiak Robotics,"Vehicle Integration Technician, Lancaster TX",4336008009,https://job-boards.greenhouse.io/kodiak/jobs/4336008009,doc1,UNVERIFIED,Oct 20,not listed,,PENDING,,,,,
+78,3,Cummings Electrical,"Apprentice Electrician, DFW",4954,https://careers-cummingselec.icims.com/jobs/4954/apprentice-electrician/job,doc1,UNVERIFIED,undated,not listed,,PENDING,,,,,FLAG: wants 3 yrs commercial work; check if required.
+79,3,NTE JATC,"Electrical Apprentice (Coppell, Fort Worth)",,https://workhands.com/organizations/north-texas-electrical-jatc/openings/electrical-apprentice-ec892973-16ec-4210-84cc-143be30844c9,doc1,UNVERIFIED,"open Sep 24 - Dec 24, 2026",not shown,,PENDING,,,,,TDLR apprentice license is your edge.
+80,3,Halliburton,"Operator Assistant Trainee, Frac/Acid (Odessa)",,https://jobs.halliburton.com/go/Equipment-Operator-Jobs-in-Midland/2874700/,doc1,N/A,Oct 12,,,BLOCKED,Relocation to Odessa; CDL,,,,
+81,3,DCOMM,Fiber & Broadband Technician (Irving / Rowlett),"4379115, 4206185",https://recruiting.paylocity.com/Recruiting/Jobs/Details/4379115,doc1,UNVERIFIED,,~$62K avg claimed,,PENDING,,,,,Second link: https://recruiting.paylocity.com/Recruiting/Jobs/Details/4206185
+82,3,Pike Corporation,"Groundman Overhead (Oncor), Fort Worth",,https://nationalmssociety.dejobs.org/texas/usa/jobs/pike-corporation/careers,doc1,UNVERIFIED,listed Oct 26,not shown,,PENDING,,,,,Link is a job board (dejobs); find Pike's own page. CDL within 60 days.
+83,3,Pike Corporation,Assistant PM,,,doc1,N/A,,,,BLOCKED,4-year degree required,,,,
+84,3,Insight Global,ROW Agent,,,doc1,N/A,,,,BLOCKED,Degree required,,,,
+85,3,Contract Land Staff,ROW role,,,doc1,N/A,,,,BLOCKED,Right-of-way / land acquisition experience required,,,,
+86,3,Southeast Elevator,"Elevator Mechanic Apprentice, Dallas",4281040,https://recruiting.paylocity.com/Recruiting/Jobs/Details/4281040,doc1,UNVERIFIED,'immediate openings',competitive,,PENDING,,,,,FLAG: text mentions West Palm Beach/Miami travel. Call to confirm Dallas first.
+87,3,Mercor,Finance Expert pool (AI training),,https://work.mercor.com/jobs/list_AAABn4KoiSkj4NbsgzBPG5pK,doc1,UNVERIFIED,open pool,$60-$180/hr per project,,PENDING,,,,,No guaranteed work.
+88,3,Scale AI,"Subject Matter Expert, hourly",4704285005,https://job-boards.greenhouse.io/scaleai/jobs/4704285005,doc1,UNVERIFIED,Oct 22,not stated,,PENDING,,,,,
+89,3,Amazon,Seasonal warehouse (bridge),,https://hiring.amazon.com/search/seasonal-jobs,doc1,UNVERIFIED,,~$20/hr avg,,PENDING,,,,,Use hiring.amazon.com only.
+90,3,Wilkins Group,Telecom Field Tech / Underground Construction,,,doc2,UNVERIFIED,,,,PENDING,,,,,Search found no Wilkins careers page. Field tech wants 1+ yr utilities.
+91,3,SYB Construction,Field Operations / Utilities / Excavation,,,doc2,UNVERIFIED,,,,PENDING,,,,,"No vacancy verified. Email apply@sybconstruction.com (G7). Offices Irving/Plano/Melissa, 972-399-1066."
+92,3,Triage Partners,Fiber Service Installation Technician (1099),,,doc2,UNVERIFIED,,,,PENDING,,,,,"Needs vehicle, 28-ft ladder and rack, insurance. Weak target."
+93,3,Powerhouse Guardians,Security systems technician,,,doc2,UNVERIFIED,,$32-$45/hr,,PENDING,,,,,Stretch: required credentials. careers@powerhouseguardians.com
+94,3,Walker Engineering,Field roles (network/service/robotic tech),,,doc2,UNVERIFIED,,,,PENDING,,,,,Check each req.
+95,3,Austin Industries,"General Field Technician/Mechanic, North Texas",,,doc2,UNVERIFIED,Sep 1 (STALE),,,PENDING,,,,,Verify mechanical qualifications.
+96,3,Skydio,Role in Colorado region,,,prompt,N/A,,,,BLOCKED,Outside DFW,,,,
+97,3,CoreWeave,Afton TX role,,,prompt,N/A,,,,BLOCKED,On-site outside DFW,,,,
+98,3,Verisk,ISO AE,,,prompt,N/A,,,,BLOCKED,Bachelor's required,,,,
+99,3,SERVPRO / GPAC / Verisk / EagleView / Goosehead / GM Launch Lead / DataAnnotation / Rosendin / Quick Hire,Prompt-list roles,,,prompt,UNVERIFIED,,,,PENDING,,,,,Named in prompt from original doc1; no links provided. Need doc1.
